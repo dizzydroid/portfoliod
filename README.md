@@ -19,7 +19,9 @@ In its own way, this simple webpage acts as a captivating portfolio that <i>you<
 <p align="center"> 
    <img src="assets/code.gif">
 </p><br>
-You can edit the colors, picture, svg paths.. anything!
+<b>You can edit the colors, picture, svg paths.. anything!</b>
+
+<br>
 <br>
 
 <ins>**Tip:**</ins> To replace the icons you need to use proper svg paths, you can find them at: https://icons.getbootstrap.com/icons/ 
