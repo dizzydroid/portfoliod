@@ -12,8 +12,7 @@
 ### A simple webpage offering limitless possibilities for your unique portfolio!
 <p align="center"> 
   <kbd>
-    <a href="https://dizzydroid.github.io/" target="_blank"><img src="assets/main.gif">
-  </a>
+   <img src="assets/main.gif">
   </kbd>
 </p>
 In its own way, this simple webpage acts as a captivating portfolio that *you* can finetune to your liking!
