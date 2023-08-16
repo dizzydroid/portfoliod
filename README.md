@@ -14,17 +14,15 @@
   <kbd>
    <img src="assets/main.gif">
   </kbd>
-</p>
+</p><br>
 In its own way, this simple webpage acts as a captivating portfolio that *you* can finetune to your liking!
 
 #### With basic HTML knowledge you can edit pretty much anything!
-
 <p align="center"> 
   <kbd>
-    <a href=""<img src="assets/code.gif">
-  </a>
+   <img src="assets/code.gif">
   </kbd>
-</p>
+</p><br>
 You can edit the colors, picture, svg paths.. anything!
 <br>
 <ins>**Tip:**</ins> To replace the icons you need to use proper svg paths, you can find them at: https://icons.getbootstrap.com/icons/ 
