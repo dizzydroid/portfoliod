@@ -12,7 +12,7 @@
 ### A simple webpage offering limitless possibilities for your unique portfolio!
 <p align="center"> 
   <kbd>
-    <a href=""<img src="assets/main.gif">
+    <a href="https://dizzydroid.github.io/" target="_blank"><img src="assets/main.gif">
   </a>
   </kbd>
 </p>
@@ -27,8 +27,8 @@ In its own way, this simple webpage acts as a captivating portfolio that *you* c
   </kbd>
 </p>
 You can edit the colors, picture, svg paths.. anything!
-
-<ins>**Tip**</ins> To replace the icons you need to use proper svg paths, you can find them at: https://icons.getbootstrap.com/icons/ 
+<br>
+<ins>**Tip:**</ins> To replace the icons you need to use proper svg paths, you can find them at: https://icons.getbootstrap.com/icons/ 
 ______________________________________
 ### Report any <a href = "https://github.com/dizzydroid/Wallster/issues"><b>issues</b></a> you encounter!
 ___________________________________________________________
