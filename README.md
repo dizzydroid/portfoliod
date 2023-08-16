@@ -13,7 +13,7 @@
 <p align="center"> 
    <img src="assets/main.gif">
 </p><br>
-In its own way, this simple webpage acts as a captivating portfolio that *you* can finetune to your liking!
+In its own way, this simple webpage acts as a captivating portfolio that <i>you</i> can finetune to your liking!
 
 #### With basic HTML knowledge you can edit pretty much anything!
 <p align="center"> 
