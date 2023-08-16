@@ -6,7 +6,7 @@
 ## Your portfolio, simply made!
 
 <pre align = "center"> <b> 
-<a href="https://dizzydroid.github.io/portoliod">View Example</a> </b>
+<a href="https://dizzydroid.github.io/portfoliod">View Example</a> </b>
 </pre>
 
 ### A simple webpage offering limitless possibilities for your unique portfolio!
