@@ -29,5 +29,6 @@ ______________________________________
 ### Report any <a href = "https://github.com/dizzydroid/portfoliod/issues"><b>issues</b></a> you encounter!
 ___________________________________________________________
 
-<p align="center"> This web-app is part of the DizzyBlog © dizzydroid. All rights reserved </p>
+<p align="center"> This web-app is part of the <a href = "https://dizzydroid.github.io/blog.html">DizzyBlog</a> © dizzydroid. All rights reserved </p>
+
 
